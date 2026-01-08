@@ -6,7 +6,7 @@ A light blue theme for Standard Notes
 
 Check out [Standard Blue Dark](https://github.com/PASSK3YS/standard-blue-dark) for the dark themed version.
 
-To install, go to preferences > general > advanced options
+To install, go to Preferences > Plugins > Install Custom Plugin
 
 Paste the following link in the text box:
 ```
