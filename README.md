@@ -10,5 +10,5 @@ To install, go to Preferences > Plugins > Install Custom Plugin
 
 Paste the following link in the text box:
 ```
-https://notes.kieran.omg.lol/p/gWG2LYgCPH
+https://listed.to/p/gWG2LYgCPH
 ```
